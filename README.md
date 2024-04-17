@@ -1,4 +1,4 @@
-# Apple_Iphone_product_SalesAnalysis
+# Apple_Iphone_SalesAnalysis
 "In a world of chaos, Tableau brings clarity through visualization."
 
 📊 Just finished creating dashboard with Tableau.
