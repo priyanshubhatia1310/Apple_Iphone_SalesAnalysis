@@ -1,7 +1,10 @@
 # Apple_Iphone_SalesAnalysis
 
 Python Codes Summary:-
-
+1. Uploading the data in the Python file.
+2. Arrange the India's top 10 iPhone ratings.
+3. after that, plot the graphs according to the sorting.
+4. Next, plot graphs based on ratings, reviews, and the percentage of the discount
 
 
 "In a world of chaos, Tableau brings clarity through visualization."
