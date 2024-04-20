@@ -1,4 +1,4 @@
-# Apple_Iphone_SalesAnalysis
+# Apple_Iphone_SalesAnalysis_Project
 
 Python Codes Summary:-
 1. Uploading the data in the Python file.
