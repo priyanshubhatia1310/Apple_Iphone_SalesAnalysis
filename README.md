@@ -9,7 +9,7 @@
 
 4.Relationship between Discount percentage and number of ratings
 
-## Codes Summary:-
+## CODES SUMMARY:-
 1. Uploading the data in the Python file.
 2. Arrange the India's top 10 iPhone ratings.
 3. after that, plot the graphs according to the sorting.
@@ -22,7 +22,7 @@
  👀 Visualization based on - Apple Product Sales in India.
  The sales of Apple products in India are displayed on this dashboard.It contains information on the sales price, MRP, and discount in addition to ratings and reviews.
 
-## Dashboard Summary:-
+## DASHBOARD SUMMARY:-
  1. The product and MRP are displayed in the first bar chart.
  2. The second graph establishes a correlation between the number of ratings and the discount percentage using a scatter plot.
  3. The top 10 highly rated Apple items are displayed in the third chart.
